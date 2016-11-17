@@ -1,2 +1,2 @@
 # Codegasm
-Started C# development projects
+Started ASP.NET Projects. Aah! Just some Practice.
